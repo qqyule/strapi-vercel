@@ -1,0 +1,6 @@
+ignorethisfile.txt
+logs/
+ignorethisfolder/
+.git
+.cache
+*.md
